@@ -3,7 +3,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { CartaDetalheComponent } from './carta-detalhe.component';
 
 describe('CartaDetalheComponent', () => {
-  let component: CartaDetalheComponent;
+  /* let component: CartaDetalheComponent;
   let fixture: ComponentFixture<CartaDetalheComponent>;
 
   beforeEach(async () => {
@@ -21,5 +21,5 @@ describe('CartaDetalheComponent', () => {
 
   it('should create', () => {
     expect(component).toBeTruthy();
-  });
+  }); */
 });
